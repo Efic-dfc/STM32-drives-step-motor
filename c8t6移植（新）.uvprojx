@@ -337,7 +337,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F10X_MD,USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>.\CORE;.\USER;.\STM32F10x_FWLib\inc;.\SYSTEM\delay;.\SYSTEM\sys;.\SYSTEM\usart;.\HARDWARE\LED;.\HARDWARE\TIMER;.\HARDWARE\CONT</IncludePath>
+              <IncludePath>.\CORE;.\USER;.\STM32F10x_FWLib\inc;.\SYSTEM\delay;.\SYSTEM\sys;.\SYSTEM\usart;.\HARDWARE\LED;.\HARDWARE\TIMER</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>

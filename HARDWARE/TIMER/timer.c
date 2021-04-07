@@ -1,7 +1,6 @@
 #include "timer.h"
 #include "led.h"
 #include "usart.h"
-#include "control.h"
 void DIR_Init(void)		//DIR¡ª¡ªPB5³õÊ¼»¯
 {	
  GPIO_InitTypeDef  GPIO_InitStructure;

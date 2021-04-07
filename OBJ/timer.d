@@ -33,4 +33,3 @@
 .\obj\timer.o: .\HARDWARE\LED\led.h
 .\obj\timer.o: .\SYSTEM\usart\usart.h
 .\obj\timer.o: E:\keil5 MDK\ARM\ARMCC\Bin\..\include\stdio.h
-.\obj\timer.o: .\HARDWARE\CONT\control.h
